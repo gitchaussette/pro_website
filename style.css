@@ -168,6 +168,8 @@ div.vertical-bar {
 
 .col-portfolio {
     width: 47%;
+    max-width: 640px;
+    max-height: 436px;
 }
 
 div.frame {
